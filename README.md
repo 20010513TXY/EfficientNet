@@ -5,3 +5,4 @@ use a model named EfficientNet to predict the class of flowers
 3、model.py是EfficientNet的模型结构，模型有些复杂，需要认真看，多debug
 4、train.py就是利用分割后的数据集，在模型上进行训练和验证
 5、predict.py利用训练好的模型对单张花图像进行类别预测
+6、efficientnetb0.pth是从网上下载的预训练模型
